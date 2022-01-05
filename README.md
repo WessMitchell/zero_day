@@ -1,1 +1,2 @@
-*Initialized git and added remote origin*
+*This is for the "Repo-session" task of our first project*
+
